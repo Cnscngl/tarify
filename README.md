@@ -163,25 +163,14 @@ Aşağıda uygulamanın temel ekranlarına ve işlevlerine ait örnek ekran gör
 #### Porsiyon Ayarı
 <img width="280" alt="Porsiyon Ayarı" src="https://github.com/user-attachments/assets/ec55040f-9f85-45b6-8e39-3d09f2ab691a" />
 
+#### Malzeme Checklist ve İlerleme Çubuğu
+<img width="280" alt="Malzeme Checklist ve İlerleme Çubuğu" src="https://github.com/user-attachments/assets/e430e03e-30a9-4d81-bc15-03cdf14b7c62" />
+
 #### Yapılış Adımları
 <img width="280" alt="Yapılış Adımları" src="https://github.com/user-attachments/assets/8629fbbe-1c0d-417a-8144-13b59798ba7f" />
 
 #### Ek Notlar Kısmı
 <img width="280" alt="Ek Notlar Kısmı" src="https://github.com/user-attachments/assets/f8225e58-2c3a-4f6c-b23e-88d0cb2143d1" />
-
----
-
-### Tarif Düzenleme Sayfası Görüntüleri
-
-#### Tarif Düzenleme Sayfası Üst Kısmı
-<img width="280" alt="Tarif Düzenleme Sayfası Üst Kısmı" src="https://github.com/user-attachments/assets/b7282f1a-8042-4312-ac66-c20d889c551a" />
-
----
-
-### Tarif Ekleme Sayfası Görüntüleri
-
-#### Tarif Ekleme Sayfası Üst Kısmı
-<img width="280" alt="Tarif Ekleme Sayfası Üst Kısmı" src="https://github.com/user-attachments/assets/26a9c58e-2197-4f2d-bdc7-aa60dbd46e94" />
 
 ---
 
@@ -192,3 +181,7 @@ Aşağıda uygulamanın temel ekranlarına ve işlevlerine ait örnek ekran gör
 
 #### Silme İşlemi İçin Uyarı Butonu
 <img width="280" alt="Silme İşlemi İçin Uyarı Butonu" src="https://github.com/user-attachments/assets/b150c631-b696-447f-b11b-28e1ad94a0ee" />
+
+
+
+
