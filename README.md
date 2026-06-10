@@ -163,9 +163,6 @@ Aşağıda uygulamanın temel ekranlarına ve işlevlerine ait örnek ekran gör
 #### Porsiyon Ayarı
 <img width="280" alt="Porsiyon Ayarı" src="https://github.com/user-attachments/assets/ec55040f-9f85-45b6-8e39-3d09f2ab691a" />
 
-#### Porsiyon Değişimi ve Checklist
-<img width="280" alt="Porsiyon Değişimi ve Checklist" src="https://github.com/user-attachments/assets/9013a1ba-c40d-4ba8-aedb-625545b6443c" />
-
 #### Yapılış Adımları
 <img width="280" alt="Yapılış Adımları" src="https://github.com/user-attachments/assets/8629fbbe-1c0d-417a-8144-13b59798ba7f" />
 
@@ -179,9 +176,6 @@ Aşağıda uygulamanın temel ekranlarına ve işlevlerine ait örnek ekran gör
 #### Tarif Düzenleme Sayfası Üst Kısmı
 <img width="280" alt="Tarif Düzenleme Sayfası Üst Kısmı" src="https://github.com/user-attachments/assets/b7282f1a-8042-4312-ac66-c20d889c551a" />
 
-#### Değişiklikleri Kaydetme Uyarısı
-<img width="280" alt="Değişiklikleri Kaydetme Uyarısı" src="https://github.com/user-attachments/assets/d62dd519-cff4-42f9-92cb-7d2bdb966811" />
-
 ---
 
 ### Tarif Ekleme Sayfası Görüntüleri
@@ -192,6 +186,9 @@ Aşağıda uygulamanın temel ekranlarına ve işlevlerine ait örnek ekran gör
 ---
 
 ### Uyarı Pencereleri
+
+#### Değişiklikleri Kaydetme Uyarısı
+<img width="280" alt="Değişiklikleri Kaydetme Uyarısı" src="https://github.com/user-attachments/assets/d62dd519-cff4-42f9-92cb-7d2bdb966811" />
 
 #### Silme İşlemi İçin Uyarı Butonu
 <img width="280" alt="Silme İşlemi İçin Uyarı Butonu" src="https://github.com/user-attachments/assets/b150c631-b696-447f-b11b-28e1ad94a0ee" />
