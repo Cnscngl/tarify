@@ -163,8 +163,8 @@ Aşağıda uygulamanın temel ekranlarına ve işlevlerine ait örnek ekran gör
 #### Porsiyon Ayarı
 <img width="280" alt="Porsiyon Ayarı" src="https://github.com/user-attachments/assets/ec55040f-9f85-45b6-8e39-3d09f2ab691a" />
 
-#### Malzeme Checklist ve İlerleme Çubuğu
-<img width="280" alt="Malzeme Checklist ve İlerleme Çubuğu" src="https://github.com/user-attachments/assets/e430e03e-30a9-4d81-bc15-03cdf14b7c62" />
+#### Malzeme Checklist ve Porsiyon Değişimi
+<img width="280" alt="Malzeme Checklist ve Porsiyon Değişimi" src="https://github.com/user-attachments/assets/e430e03e-30a9-4d81-bc15-03cdf14b7c62" />
 
 #### Yapılış Adımları
 <img width="280" alt="Yapılış Adımları" src="https://github.com/user-attachments/assets/8629fbbe-1c0d-417a-8144-13b59798ba7f" />
